@@ -1,0 +1,1 @@
+tbr_search /share/rcifdata/pmanek/fusion/data/run2 300 303 /share/rcifdata/pmanek/fusion/hyperopt/09_rbf/1slice_run2_batch300_303_search /share/rcifdata/pmanek/fusion/regression/search_space/rbf.yml --feature-def=/share/rcifdata/pmanek/fusion/regression/features/single_slice --score=r2 --strategy=bayesian --n-jobs=20 --save-interval=60

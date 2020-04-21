@@ -1,0 +1,1 @@
+tbr_search %%DATA_IN%% %%BATCH_LOW%% %%BATCH_HIGH%% %%OUT_DIR%% %%REG_DIR%%/search_space/ert.yml --feature-def=%%REG_DIR%%/features/single_slice --score=r2 --strategy=bayesian --n-jobs=20 --save-interval=60

@@ -1,0 +1,1 @@
+{'alpha': 0.6710635958170175, 'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'learning_rate': 0.15640396989606123, 'loss': 'huber', 'min_impurity_decrease': 0.18167353310964623, 'min_samples_leaf': 8, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.00584161994439272, 'n_estimators': 133, 'subsample': 0.8225389121368856}

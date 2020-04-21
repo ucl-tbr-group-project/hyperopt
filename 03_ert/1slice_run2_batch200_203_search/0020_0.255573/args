@@ -1,0 +1,1 @@
+{'ccp_alpha': 0.036144043803283586, 'criterion': 'mse', 'min_impurity_decrease': 0.014082488534919294, 'min_samples_leaf': 6, 'min_samples_split': 19, 'min_weight_fraction_leaf': 0.1637098230433429, 'n_estimators': 147}

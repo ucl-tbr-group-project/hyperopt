@@ -1,0 +1,1 @@
+{'alpha': 0.6112077912070715, 'ccp_alpha': 0.0, 'criterion': 'mae', 'learning_rate': 0.5, 'loss': 'ls', 'min_impurity_decrease': 0.0, 'min_samples_leaf': 20, 'min_samples_split': 20, 'min_weight_fraction_leaf': 0.018669938571689554, 'n_estimators': 10, 'subsample': 0.5978800226172866}

@@ -1,0 +1,1 @@
+{'alpha': 0.23093042747781492, 'average': True, 'degree': 7, 'early_stopping': True, 'epsilon': 0.2512509895963587, 'eta0': 0.22255442874476233, 'fit_intercept': False, 'l1_ratio': 0.04910004732236374, 'learning_rate': 'constant', 'loss': 'epsilon_insensitive', 'penalty': 'l2', 'power_t': 0.2627264219069705, 'warm_start': True}
