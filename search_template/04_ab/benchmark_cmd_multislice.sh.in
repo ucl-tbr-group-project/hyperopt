@@ -1,0 +1,1 @@
+tbr_search_benchmark %%DATA_IN%% %%BATCH_LOW%% %%BATCH_HIGH%% %%SEARCH_IN%%/search.csv %%OUT_DIR%% ab --feature-def=%%REG_DIR%%/features/all --save-plots --n-jobs=20 --n-best-models=20 --set-size=1000 --set-size=2000 --set-size=5000 --set-size=10000 --set-size=12000 --set-size=15000 --set-size=20000
