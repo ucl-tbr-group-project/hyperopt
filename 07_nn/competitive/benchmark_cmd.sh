@@ -1,0 +1,1 @@
+tbr_search_benchmark /share/rcifdata/pmanek/fusion/data/run1 0 500 /share/rcifdata/pmanek/fusion/hyperopt/07_nn/competitive/search_5ke.csv /share/rcifdata/pmanek/fusion/hyperopt/07_nn/competitive/500ks_5ke nn --feature-def=/share/rcifdata/pmanek/fusion/regression/features/all --save-plots --save-trained-models --n-jobs=1 --n-best-models=5 --set-size=500000
